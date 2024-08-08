@@ -1,0 +1,15 @@
+realiza un proyecto desde 0  debe contener la sig informacion 
+nombre :nissan, 
+colecciones : empleados , lideres , entrenadores , tecnicos, nomina , becarios 
+
+becarios y empleados deben contar con mismo esquema 
+entrenadores y tecnicos con el mismo esquema
+genera dos colecciones libres que deberan contar con el mismo esquema 
+
+
+dos colecciones lito
+empleados : listo |becarios :listo
+lideres:lisot
+entrenadores: listo | tecnicos :listo
+
+nomina :lisot
